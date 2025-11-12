@@ -5,13 +5,11 @@
 layout: home
 ---
 
-This is my personal website. It's pretty boring.
-    
+This is my personal website. I use this to journal my thoughts and things, which has proven to be incredibly valuable to me.
 
-I make other websites though! Mostly about things that I am interested in, like:
+I make other websites, mostly about things that I am interested in, like:
 - <a href="https://passages.codyclay.com">Memorizing Bible Passages</a>
 - <a href="https://notable.codyclay.com">Guitar playing</a>
-- Exercise (COMING SOON!)
     
 I work at Bliss Ventures, LLC. We write software that aims to be simple, intuitive, 
 and robust, with the goal of enabling our users to spend less time on their computers 
